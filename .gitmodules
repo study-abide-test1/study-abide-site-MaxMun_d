@@ -1,4 +1,4 @@
 [submodule "sourcedata/raw"]
 	path = sourcedata/raw
-	url = ./sourcedata/raw
+	url = https://github.com/study-abide-test1/study-abide-site-MaxMun_d-sourcedata-raw.git
 	datalad-id = 3efab215-6071-40f9-8073-0da2b3094e14
